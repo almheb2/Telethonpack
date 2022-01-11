@@ -52,6 +52,8 @@ pylast
 PyLyrics
 pymediainfo
 pySmartDL
+python3
+python
 python-barcode
 pytuneteller
 pytz
